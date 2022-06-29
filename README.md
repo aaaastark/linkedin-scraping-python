@@ -1,4 +1,4 @@
-# Linkedin Scraping usig Python Programming Language
+# LinkedIn Scraping using Python Programming Language
 
 #### Scraping Profiles Details
 - Company Follower and UnFollower People
